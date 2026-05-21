@@ -1,0 +1,11 @@
+template = ""
+rev_id = 318
+template_sha = "71a1af4cb1cb80e9b86b2e9d1c090f473b0d8270"
+
+[replacements]
+__GLOTTOLOG_ID__ = "mont1268"
+__LICENSE__ = "LGPLv3"
+__REPO__ = "keyboard-moe"
+__UND2C__ = "moe"
+__UNDEFINED__ = "Innu"
+__UND__ = "moe"

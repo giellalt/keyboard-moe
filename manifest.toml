@@ -1,0 +1,33 @@
+# Name of the speller package in various languages.
+# The default is English + autonym:
+[speller.name]
+en = "Innu spellchecker"
+moe = "Autonym spellchecker"
+
+# Description of the speller package in various languages.
+# The default is English + autonym:
+[speller.description]
+en = "A spellchecker for Innu, made by members of the language community, and by the Divvun and Giellatekno groups at UiT The Arctic University of Norway"
+moe = "TRANSLATE: A spellchecker for Innu, made by members of the language community, and by the Divvun and Giellatekno groups at UiT The Arctic University of Norway"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.moe"
+
+[windows]
+system_product_code = "{REPLACE_WITH_REAL_SYSTEM_PROD_CODE}_is1"
+
+[package.speller]
+name = "Innu"
+version = "0.1.0"
+
+[package.grammar]
+name = "Innu"
+version = "0.1.0"
+
+[package.tts-textproc]
+name = "Innu"
+version = "0.1.0"
+
+[package.hyphenator]
+name = "Innu"
+version = "0.1.0"
