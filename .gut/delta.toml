@@ -1,4 +1,5 @@
 template = ""
+<<<<<<< HEAD
 rev_id = 318
 template_sha = "71a1af4cb1cb80e9b86b2e9d1c090f473b0d8270"
 
@@ -6,6 +7,14 @@ template_sha = "71a1af4cb1cb80e9b86b2e9d1c090f473b0d8270"
 __GLOTTOLOG_ID__ = "mont1268"
 __LICENSE__ = "LGPLv3"
 __REPO__ = "keyboard-moe"
+=======
+rev_id = 33
+template_sha = "7bd78e141ef2a9cbd0bad5887f79301c4cd034f5"
+
+[replacements]
+__GLOTTOLOG_ID__ = "ont1268"
+__LICENSE__ = "LGPLv3"
+>>>>>>> cab296c (Generate project)
 __UND2C__ = "moe"
 __UNDEFINED__ = "Innu"
 __UND__ = "moe"

@@ -1,5 +1,6 @@
 #!/bin/bash
 
+<<<<<<< HEAD
 # set -x
 
 # Variable setup for adding env. variable:
@@ -82,6 +83,19 @@ while test $# -ge 1 ; do
     if test "x$1" = "x--add-langvar" -o "x$1" = "x-l" ; then
         langvar=langvar
     elif test "x$1" = "x--help" -o "x$1" = "x-h" ; then
+=======
+function print_usage() {
+    echo "Usage: $0 [OPTIONS...]"
+    echo "Prepare Autotools build infrastructure"
+    echo
+    echo "  -h, --help          print this usage info"
+    echo
+}
+
+# manual getopt loop... Mac OS X does not have good getopt
+while test $# -ge 1 ; do
+    if test x$1 = x--help -o x$1 = x-h ; then
+>>>>>>> cab296c (Generate project)
         print_usage
         exit 0
     else
@@ -93,6 +107,7 @@ while test $# -ge 1 ; do
     shift
 done
 
+<<<<<<< HEAD
 if test -d "$LANGDIR/.git" ; then
     repoformat=git
 elif test -d "$LANGDIR/.svn" ; then
@@ -193,3 +208,11 @@ fi
 ###     echo "$0 -l"
 ###     echo
 ### fi
+=======
+echo
+echo "Initial automake setup of $(basename $(pwd))"
+echo
+
+# autoreconf should work for most platforms
+autoreconf -i
+>>>>>>> cab296c (Generate project)

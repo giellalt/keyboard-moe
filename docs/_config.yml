@@ -1,6 +1,11 @@
 remote_theme: giellalt/jekyll-theme-giellalt@main
+<<<<<<< HEAD
 title: Innu NLP Grammar
 description: Finite state and Constraint Grammar based analysers, proofing tools and other resources
+=======
+title: Innu Keyboards
+description: Keyboard layout definitions for desktop and mobile OS's
+>>>>>>> cab296c (Generate project)
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
@@ -12,7 +17,11 @@ plugins:
 defaults:
   - scope: { path: "" }
     values:
+<<<<<<< HEAD
       layout: default
+=======
+      layout: keyboard
+>>>>>>> cab296c (Generate project)
 
 markdown: kramdown
 kramdown:
