@@ -122,15 +122,15 @@ macOS:
           A S D F G H J K L ; È À
         Ù Z X C V B N M , . É
       alt: |
-        | ¡ @ £ € ∞   { } [ ] | ¬
-          œ ∑ ∂ ¶ ™ \   π ø “ ¨ Ç
-          æ ß ª ƒ © ˙ ∆ ˚   ° \ `
-        \ « » ¢ √ ∫   µ < > /
+        | ¡ @ £ € ∞ § { } [ ] | ¬
+          œ ∑ ∂ ¶ ™ \ ü π ø “ ` ~
+          æ ß ª ƒ © ˙ ∆ ˚ ﬁ ° \ `
+        \ « » ¢ √ ∫ ‘ µ < > /
       alt+shift: |
        \u{0} ≈ ı ˆ ˜  † ‡ • ± — ¿ –
           Œ ‰ ¯ ® ˘ ˝ ˛ ∏ Ø ” „ ~
-          Æ § ˇ ﬂ ﬁ · ‚ ⁄ … ´’ `
-        Ω › † ◊ ≤ ≥ º x ÷ ≠
+          Æ § ˇ ﬂ ﬁ · ‚ ⁄ … ´ ’ `
+        Ω ‹ › † ◊ ≤ ≥ º x ÷ ≠
       ctrl: |
         0 1 2 3 4 5 6 7 8 9 0 \u{1F} =
           \u{11} \u{17} \u{5} \u{12} \u{14} \u{19} \u{15} \u{9} \u{F} \u{10} \u{1B} \u{1D}
@@ -187,9 +187,9 @@ windows:
           a s d f g h j k l ; ` <
         « z x c v b n m , . - é
       shift: |
-      | ! " / $ % ? & * ( ) _ +
-        Q W E R T Y U I O P ^ ¸ 
-        A S D F G H J K L : ` >
+        | ! " / $ % ? & * ( ) _ +
+          Q W E R T Y U I O P ^ ¸ 
+          A S D F G H J K L : ` >
         « Z X C V B N M ' . É 
       caps: |
         | 1 2 3 4 5 6 7 8 9 0 + \
@@ -198,18 +198,18 @@ windows:
         « Z X C V B N M , . -
       caps+shift: |
         § ! " # ¤ % & / ( ) = ? `
-        á š e r t y u i o p ^ ¸
-        a s d f g h j k l ; ` <
+          á š e r t y u i o p ^ ¸
+          a s d f g h j k l ; ` <
         « z x c v b n m ; : _
       alt: |
         \u{0} \u{0} @ £ $ € \u{0} { [ ] } \u{0} ´
-        q w € \u{0} ŧ \u{0} \u{0} ï õ \u{0} ¨ ~
-        â \u{0} \u{0} \u{0} ǧ ǥ \u{0} ǩ \u{0} ö ä '
+          q w € \u{0} ŧ \u{0} \u{0} ï õ \u{0} ¨ ~
+          â \u{0} \u{0} \u{0} ǧ ǥ \u{0} ǩ \u{0} ö ä '
         ǯ ʒ x \u{0} \u{0} \u{0} \u{0} µ < > \u{0}
       alt+shift: |
         \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
-        Q W \u{0} \u{0} Ŧ \u{0} \u{0} Ï Õ \u{0} ^ ˇ
-        Â \u{0} \u{0} \u{0} Ǧ Ǥ \u{0} Ǩ \u{0} Ö Ä *
+          Q W \u{0} \u{0} Ŧ \u{0} \u{0} Ï Õ \u{0} ^ ˇ
+          Â \u{0} \u{0} \u{0} Ǧ Ǥ \u{0} Ǩ \u{0} Ö Ä *
         Ǯ Ʒ X \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
   deadKeys:
     shift: ['`']
@@ -229,30 +229,30 @@ chromeOS:
           a s d f g h j k l ; ` <
         « z x c v b n m , . - é
       shift: |
-      | ! " / $ % ? & * ( ) _ +
-        Q W E R T Y U I O P ^ ¸ 
-        A S D F G H J K L : ` >
+        | ! " / $ % ? & * ( ) _ +
+          Q W E R T Y U I O P ^ ¸ 
+          A S D F G H J K L : ` >
         « Z X C V B N M ' . É 
       caps: |
         | 1 2 3 4 5 6 7 8 9 0 + \
-        Q W E R T Y U I O P ^ ¸ 
-        A S D F G H J K L : ` >
+          Q W E R T Y U I O P ^ ¸ 
+          A S D F G H J K L : ` >
         « Z X C V B N M , . -
       caps+shift: |
         § ! " # ¤ % & / ( ) = ? `
-        q w e r t y u i o p ^ ¸
-        a s d f g h j k l ; ` <
+          q w e r t y u i o p ^ ¸
+          a s d f g h j k l ; ` <
         « z x c v b n m ; : _
       alt: |
         \u{0} \u{0} @ £ $ € \u{0} { [ ] } \u{0} ´
-        q w € \u{0} ŧ \u{0} \u{0} ï õ \u{0} ¨ ~
-        â \u{0} \u{0} \u{0} ǧ ǥ \u{0} ǩ \u{0} ö ä '
-        ǯ ʒ x \u{0} \u{0} \u{0} \u{0} µ < > \u{0}
+          \u{0 \u{0 € \u{0} ŧ \u{0} \u{0} ï õ \u{0} ¨ ~
+          \u{0 \u{0} \u{0} \u{0} \u{0 \u{0 \u{0} \u{0 \u{0} \u{0 \u{0 '
+        \u{0 \u{0 \u{0 \u{0} \u{0} \u{0} \u{0} µ < > \u{0}
       alt+shift: |
         \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
-        Q W \u{0} \u{0} Ŧ \u{0} \u{0} Ï Õ \u{0} ^ ˇ
-        Â \u{0} \u{0} \u{0} Ǧ Ǥ \u{0} Ǩ \u{0} Ö Ä *
-        Ǯ Ʒ X \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
+          \u{0 \u{0 \u{0} \u{0} \u{0 \u{0} \u{0} Ï Õ \u{0} ^ ˇ
+          \u{0 \u{0} \u{0} \u{0} \u{0 \u{0 \u{0} \u{0 \u{0} Ö Ä *
+        \u{0 \u{0 X \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
 
 longpress:
   A: Á À Â Æ
@@ -280,24 +280,8 @@ longpress:
 transforms:
   '-':
     ' ': '-'
-    b: ƀ
-    d: đ
-    D: Đ
-    g: ǥ
-    G: Ǥ
-    h: ħ
-    H: Ħ
-    i: ɨ
-    I: Ɨ
     l: ł
     L: Ł
-    o: ɵ
-    O: Ɵ
-    t: ŧ
-    T: Ŧ
-    u: ʉ
-    z: ƶ
-    Z: Ƶ
   '`':
     ' ': '`'
     a: à
@@ -310,8 +294,8 @@ transforms:
     'N': Ǹ
     o: ò
     O: Ò
-    u: ù
-    U: Ù
+    u: ᵘ
+    U: ᵘ
     v: ǜ
     V: Ǜ
     w: ẁ
@@ -322,10 +306,6 @@ transforms:
     ' ': ´
     a: á
     A: Á
-    å: ǻ
-    Å: Ǻ
-    æ: ǽ
-    Æ: Ǽ
     c: ć
     C: Ć
     e: é
@@ -338,14 +318,10 @@ transforms:
     K: Ḱ
     l: ĺ
     L: Ĺ
-    m: ḿ
-    M: Ḿ
     'n': ń
     'N': Ń
     o: ó
     O: Ó
-    ø: ǿ
-    Ø: Ǿ
     p: ṕ
     P: Ṕ
     r: ŕ
@@ -398,8 +374,6 @@ transforms:
     H: Ḣ
     i: ı
     I: İ
-    m: ṁ
-    M: Ṁ
     'n': ṅ
     'N': Ṅ
     o: ȯ
@@ -411,7 +385,6 @@ transforms:
     s: ṡ
     S: Ṡ
     t: ṫ
-    T: Ṫ
     w: ẇ
     W: Ẇ
     x: ẋ
@@ -433,7 +406,6 @@ transforms:
     o: ö
     O: Ö
     t: ẗ
-    T: T\u{308}
     u: ü
     U: Ü
     w: ẅ
@@ -446,16 +418,10 @@ transforms:
     ' ': ˚
     a: å
     A: Å
-    e: e\u{30A}
-    E: E\u{30A}
-    o: o\u{30A}
-    O: O\u{30A}
     u: ů
     U: Ů
     w: ẘ
-    W: W\u{30A}
     'y': ẙ
-    'Y': Y\u{30A}
   ˝:
     ' ': ˝
     o: ő
@@ -488,10 +454,6 @@ transforms:
     Š: Ș
     t: ţ
     T: Ţ
-    ŧ: ț
-    Ŧ: Ț
-    z: z\u{327}
-    Z: Z\u{327}
   ˆ:
     ' ': ^
     a: â
@@ -506,12 +468,6 @@ transforms:
     H: Ĥ
     i: î
     I: Î
-    j: ĵ
-    J: Ĵ
-    m: m\u{302}
-    M: M\u{302}
-    'n': n\u{302}
-    'N': N\u{302}
     o: ô
     O: Ô
     s: ŝ
@@ -541,7 +497,6 @@ transforms:
     i: ǐ
     I: Ǐ
     j: ǰ
-    J: J\u{30C}
     k: ǩ
     K: Ǩ
     l: ľ
@@ -560,12 +515,6 @@ transforms:
     U: Ǔ
     v: ǚ
     V: Ǚ
-    x: ʒ\u{30C}
-    X: Ʒ\u{30C}
-    z: ž
-    Z: Ž
-    ʒ: ǯ
-    Ʒ: Ǯ
   ƒ:
     '0': °
     ' ': ƒ
