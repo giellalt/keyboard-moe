@@ -1,8 +1,0 @@
-!! Nouns
-!  -----
-!! Nouns in the Innu language refer to objects or sets of objects, qualities, states or ideas.
-
-LEXICON Nouns
-noun+N:noun    Cases   ;
-
-! vim: set ft=xfst-lexc:

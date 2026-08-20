@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 mont1268
-=======
-ont1268
->>>>>>> cab296c (Generate project)
