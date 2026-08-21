@@ -1,6 +1,6 @@
 template = ""
-rev_id = 33
-template_sha = "7bd78e141ef2a9cbd0bad5887f79301c4cd034f5"
+rev_id = 35
+template_sha = "e0135c1b9013afdf4ad0b5ee9bc4d3640d4300c9"
 
 [replacements]
 __GLOTTOLOG_ID__ = "mont1268"
